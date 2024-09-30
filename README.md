@@ -2,15 +2,13 @@
 ## About Me
 **This is Bold**
 
-*This is italics*
+_This is italics_
 
-***This is bold italics***
+**_This is bold italics_**
 
-This is ~~struckthrough~~
+This is ~~strikethrough~~
 
 Visit [YouTube](https://www.youtube.com) at this link to be entertained and learn countless subjects. 
-
-
 
 ### A great list
 * Bullet 1
