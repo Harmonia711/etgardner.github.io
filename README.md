@@ -1,5 +1,5 @@
-# Mr. Gardner's Repository
-## About Me
+# About Me
+## Bolding, Italics, Strikethrough
 **This is Bold**
 
 _This is italics_
@@ -7,15 +7,16 @@ _This is italics_
 **_This is bold italics_**
 
 This is ~~strikethrough~~
-
+## Links
 Visit [YouTube](https://www.youtube.com) at this link to be entertained and learn countless subjects. 
 
-### A great list
+## Lists
+### A bulleted list
 * Bullet 1
 * Bullet 2
 * Bullet 3
 
-#### Numbered List
+### Numbered List with Nesting
 1. The best
     * This is a nested list inside the first item.
 2. Second best
@@ -23,8 +24,9 @@ Visit [YouTube](https://www.youtube.com) at this link to be entertained and lear
 3. Third best
     * So cool.
 
-# Checkboxes
-### You can't interact with checkboxes, unfortunately.
+## Checkboxes
+#### You can't interact with checkboxes, unfortunately.
+#### Groceries
 - [ ] Milk
 - [x] Eggs
 - [ ] Bagels
