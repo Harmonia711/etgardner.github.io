@@ -23,8 +23,9 @@ Visit [YouTube](https://www.youtube.com) at this link to be entertained and lear
 3. Third best
     * So cool.
 
-# Test Checkbox
-- [] Milk
-- [ ] Eggs
-- [x] Bagels
+# Checkboxes
+### You can't interact with checkboxes, unfortunately.
+- [ ] Milk
+- [x] Eggs
+- [ ] Bagels
 
