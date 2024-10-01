@@ -21,4 +21,10 @@ Visit [YouTube](https://www.youtube.com) at this link to be entertained and lear
 2. Second best
     * Isn't that cool?
 3. Third best
-    * So cool. 
+    * So cool.
+
+# Test Checkbox
+- [] Milk
+- [ ] Eggs
+- [x] Bagels
+
