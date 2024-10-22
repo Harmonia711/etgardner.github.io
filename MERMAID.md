@@ -2,6 +2,7 @@
 flowchart TB
     Freshman --> Sophomore --> Junior --> Senior
 ```
+
 ``` mermaid
     pie
         title Pie Chart

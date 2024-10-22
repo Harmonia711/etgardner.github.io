@@ -30,4 +30,3 @@ Visit [YouTube](https://www.youtube.com) at this link to be entertained and lear
 - [ ] Milk
 - [x] Eggs
 - [ ] Bagels
-
