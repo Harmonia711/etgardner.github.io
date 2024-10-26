@@ -1,13 +1,36 @@
-p{
 
+/* Color Palette:
+Light Shades: #fcfcfd;
+Light Accent: #ebc06c;
+Main Brand Color: #e96663;
+Dark Accent: #aaacb3;
+Dark Shades: #475671;
+*/
+
+
+body{
+    background-color: #475671;
 }
-.name{
-    color:darkorange;
+
+header{
+    color: #fcfcfd;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
 }
 .contactheader{
-    color: darkorange;
+    color: #aaacb3;
     font-family: 'Times New Roman', Times, serif;
-    font-size: medium;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+#contactinfo{
+    color:#e96663;
+}
+p{
+    color:#fcfcfd;
+}
+#education{
+    color: #fcfcfd;
 }
