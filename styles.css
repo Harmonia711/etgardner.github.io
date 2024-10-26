@@ -25,12 +25,9 @@ img {
     width: 100px;
     height: 100px;
 }
-#contactinfo{
-    color:#e96663;
-}
-p{
-    color:#fcfcfd;
-}
-#education{
+.sectiontitle{
     color: #fcfcfd;
+}
+a:hover{
+    color: #e96663;
 }
