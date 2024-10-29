@@ -7,9 +7,20 @@ Dark Accent: #aaacb3;
 Dark Shades: #475671;
 */
 
+.active{
+    background-color: #ebc06c;
+}
 
 body{
     background-color: #475671;
+}
+nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    position: -webkit-sticky; /* Safari */
+     position: sticky;
+    top: 0;
 }
 
 .navBar{
@@ -20,11 +31,16 @@ body{
     top:0;
     overflow: hidden;
     background-color:#aaacb3;
+    height:auto;
 }
 
 .navBar li{
     float: left;
+    border-right: 1px solid #475671;
 }
+.navBar li:last-child {
+    border-right: none;
+  }
 
 .navBar li a{
     display: block;
@@ -42,14 +58,17 @@ header{
     color: #fcfcfd;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
+    position: sticky;
+    overflow: hidden;
 }
 .contactheader{
     color: #aaacb3;
     font-family: 'Times New Roman', Times, serif;
 }
 img {
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
 }
 .sectiontitle{
     color: #fcfcfd;
