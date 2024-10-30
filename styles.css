@@ -19,7 +19,7 @@ nav{
     top: 0;
     width: 100%;
     position: -webkit-sticky; /* Safari */
-     position: sticky;
+    position: sticky;
     top: 0;
 }
 
@@ -70,6 +70,23 @@ img {
     border-radius: 50%; /* Rounds out images to circular shape*/
     display: inline-block;
 }
+
+.column{
+    float: left;
+    width: 33.33%;
+}
+.row:after{
+    content: "";
+    display: table;
+    clear:both;
+}
+
+@media screen and (max-width: 600px){
+    .column{
+        width:100%;
+    }
+}
+
 .sectiontitle{
     color: #fcfcfd;
 }
