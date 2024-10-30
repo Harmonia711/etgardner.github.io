@@ -67,7 +67,7 @@ header{
 }
 img {
     width: 50px;
-    border-radius: 50%;
+    border-radius: 50%; /* Rounds out images to circular shape*/
     display: inline-block;
 }
 .sectiontitle{
