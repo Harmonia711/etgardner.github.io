@@ -73,7 +73,7 @@ img {
 
 .column{
     float: left;
-    width: 33.33%;
+    width: 33%;
 }
 .row:after{
     content: "";
@@ -88,8 +88,16 @@ img {
 }
 
 .sectiontitle{
-    color: #fcfcfd;
+    color: #e96663;
+    text-align:center
 }
 a:hover{
     color: #e96663;
+}
+
+.card{
+    border: 3px #aaacb3;
+    background-color: #fcfcfd;
+    border-radius: 5px;
+    margin: 2px;
 }
