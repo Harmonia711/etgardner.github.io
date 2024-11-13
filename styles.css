@@ -37,6 +37,7 @@ nav{
     float: left;
     border-right: 1px solid #475671;
 }
+
 .navBar li:last-child {
     border-right: none;
   }
