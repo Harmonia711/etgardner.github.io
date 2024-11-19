@@ -184,11 +184,3 @@ By the end of this session, students will practice and understand key Linux comm
   - Write a script in `docs` that prints “Project Setup Complete!” when executed.  
 
 ---
-
-### **End of Session**  
-- **Q&A:** Address any questions students have.  
-- **Homework:** Practice all commands on their own, and create a similar review session for practice.  
-
---- 
-
-Let me know if you'd like this adjusted further!
