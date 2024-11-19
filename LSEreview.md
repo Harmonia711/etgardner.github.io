@@ -21,8 +21,6 @@ By the end of this session, students will practice and understand key Linux comm
   1. Run `man ls`.  
   2. Scroll through the manual using the arrow keys.  
   3. Exit with `q`.  
-- **Discussion:** Explain the structure of `man` pages: NAME, SYNOPSIS, DESCRIPTION, OPTIONS, etc.  
-
 ---
 
 #### **2. Default Delimiters and Directory Navigation**  
@@ -40,8 +38,6 @@ By the end of this session, students will practice and understand key Linux comm
      ```bash  
      pwd  
      ```  
-- **Discussion:** Highlight the role of `/` as a delimiter.  
-
 ---
 
 #### **3. File Creation: `touch` and `vi`**  
@@ -52,8 +48,6 @@ By the end of this session, students will practice and understand key Linux comm
      touch file1.txt  
      ```  
   2. Open `file1.txt` with `vi` and add the text "Hello, world!". Save and exit.  
-- **Discussion:** Briefly explain the difference between `touch` and `vi`.  
-
 ---
 
 #### **4. Viewing and Managing Directory Contents**  
@@ -71,8 +65,6 @@ By the end of this session, students will practice and understand key Linux comm
      ```bash  
      ls -la  
      ```  
-- **Discussion:** Explain combining options and interpreting output (`permissions`, `owner`, `size`, `timestamp`).  
-
 ---
 
 #### **5. File and Directory Operations**  
@@ -94,7 +86,7 @@ By the end of this session, students will practice and understand key Linux comm
      ```bash  
      rm -r subdir  
      ```  
-- **Discussion:** Emphasize that directories must be empty before deletion without `-r`.  
+- Directories must be empty before deletion without `-r`.  
 
 ---
 
@@ -109,8 +101,6 @@ By the end of this session, students will practice and understand key Linux comm
      ```bash  
      cat numbers.txt | wc -l  
      ```  
-- **Discussion:** Explain `>` (overwrite), `>>` (append), and the purpose of `|`.  
-
 ---
 
 #### **7. Permissions and `chmod`**  
@@ -128,8 +118,6 @@ By the end of this session, students will practice and understand key Linux comm
      ```bash  
      ls -l testfile  
      ```  
-- **Discussion:** Break down `rwxrwxrwx` and numeric representation.  
-
 ---
 
 #### **8. Script Creation and Execution**  
@@ -152,8 +140,6 @@ By the end of this session, students will practice and understand key Linux comm
      ```bash  
      ./script.sh  
      ```  
-- **Discussion:** Explain the `shebang` (`#!/bin/bash`) and the `chmod` step.  
-
 ---
 
 #### **9. Shortcut Keys**  
@@ -165,8 +151,6 @@ By the end of this session, students will practice and understand key Linux comm
      ```bash  
      cd tes<Tab>  
      ```  
-- **Discussion:** Highlight how these shortcuts enhance efficiency.  
-
 ---
 
 #### **10. Wrap-Up Challenge**  
