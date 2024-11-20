@@ -1,0 +1,122 @@
+
+/* Color Palette:
+Light Shades: #fcfcfd;
+Light Accent: #ebc06c;
+Main Brand Color: #e96663;
+Dark Accent: #aaacb3;
+Dark Shades: #475671;
+*/
+body{
+    background-color: #475671;
+}
+
+.active{
+    background-color: #ebc06c;
+}
+
+nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+}
+
+.navBar{
+    list-style-type: none; /* Removes bullets */
+    margin: 0;
+    padding: 0;
+    position:sticky;
+    top:0;
+    overflow: hidden;
+    background-color:#aaacb3;
+    height:auto;
+}
+
+.navBar li{
+    float: left;
+    border-right: 1px solid #475671;
+}
+
+.navBar li:last-child {
+    border-right: none;
+  }
+
+.navBar li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navBar li a:hover{
+    color: #e96663;
+}
+
+header{
+    color: #fcfcfd;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    position: sticky;
+    overflow: hidden;
+}
+.contactheader{
+    color: #aaacb3;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    width: 50px;
+    border-radius: 50%; /* Rounds out images to circular shape*/
+    display: inline-block;
+}
+/* 
+.column{
+    float: left;
+    width: 33%;
+} */
+/*
+.row:after{
+    content: "";
+    display: table;
+    clear:both;
+}
+*/
+/* @media screen and (max-width: 600px){
+    .column{
+        width:100%;
+    }
+} */
+
+/*  
+.card{
+    border: 3px #aaacb3;
+    background-color: #fcfcfd;
+    border-radius: 5px;
+    margin: 2px;
+}
+*/
+
+.sectiontitle{
+    color: #e96663;
+    text-align:center
+}
+a:hover{
+    color: #e96663;
+}
+
+.container{
+    background-color: white;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    align-items: center;
+}
+
+.box{
+background-color: gray;
+color: white;
+padding: 1px;
+margin: 1px;
+}
